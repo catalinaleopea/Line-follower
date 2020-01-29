@@ -1,2 +1,2 @@
 * linguist-vendored
-*.arduino linguist-vendored=false
+*.ino linguist-vendored=false
